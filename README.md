@@ -1,14 +1,13 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">- 👋 Hi, I’m Umut
+<div align="center">
+
+
+
+- 👋 Hi, I’m Umut
 - I'm a software student in Turkey.
 - Languages I know: JavaScript, CSS and HTML
 - I am the founder of Akira guild and Rainbow Jailbreak server.
-- NOTE : All my projects are private! / Tüm projelerim gizlidir.</h2>
+- NOTE : All my projects are private! / Tüm projelerim gizlidir.
 
-
-
-<div align="center">
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585608152088587)](https://discord.com/users/852585608152088587)   
 
 </div>
 <h3My accounts;</h3>
@@ -18,9 +17,3 @@
 </a>
    <a href="https://steamcommunity.com/id/umtumt/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/hsibly6m2goq2m59z7pkibzpk" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-
-
-
-
-
-
