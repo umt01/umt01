@@ -8,7 +8,7 @@
 - NOTE : All my projects are private! / Tüm projelerim gizlidir.
 
 
-
+<div align="center">
 </div>
 <h3My accounts;</h3>
 <p align="center">
