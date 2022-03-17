@@ -10,6 +10,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585608152088587?theme=dark&bg=000000)](https://discord.com/users/852585608152088587)
 
+<img src="https://komarev.com/ghpvc/?username=umt01&label=Numbers%20of%20visitors&color=ff4600" alt="umt01" />
 
 </div>
 <h3My accounts;</h3>
