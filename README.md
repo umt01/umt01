@@ -1,20 +1,14 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Furtsy 👋</h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">- 👋 Hi, I’m Umut
+- I'm a software student in Turkey.
+- Languages I know: JavaScript, CSS and HTML
+- I am the founder of Akira guild and Rainbow Jailbreak server.
+- NOTE : All my projects are private! / Tüm projelerim gizlidir.</h2>
 
 
 
 <div align="center">
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L15V33S)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/673166542954823691)](https://discord.com/users/673166542954823691)   
-
-
-- 👋 Hi, I’m Umut
-- I'm a software student in Turkey.
-- Languages I know: JavaScript, CSS and HTML
-- I am the founder of Akira guild and Rainbow Jailbreak server.
-- NOTE : All my projects are private! / Tüm projelerim gizlidir.
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585608152088587)](https://discord.com/users/852585608152088587)   
 
 </div>
 <h3My accounts;</h3>
