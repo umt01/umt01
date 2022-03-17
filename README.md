@@ -1,4 +1,6 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585608152088587)](https://discord.com/users/852585608152088587)
+<div align="center">
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585608152088587)](https://discord.com/users/852585608152088587)  
 
 
 - 👋 Hi, I’m Umut
@@ -8,7 +10,6 @@
 - NOTE : All my projects are private! / Tüm projelerim gizlidir.
 
 
-<div align="center">
 </div>
 <h3My accounts;</h3>
 <p align="center">
