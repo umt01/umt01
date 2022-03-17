@@ -8,6 +8,8 @@
 - I'm the founder of Akira guild and Rainbow Jailbreak server.
 - Note : All my project is confidential and licensed. / Tüm projem gizli ve lisanslıdır.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/852585608152088587)](https://discord.com/users/852585608152088587)
+
 
 </div>
 <h3My accounts;</h3>
