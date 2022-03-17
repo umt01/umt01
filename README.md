@@ -2,11 +2,11 @@
 
 
 
-   👋 Hi, I’m Umut
-I'm a software student in Turkey.
-Four years of Discord developer
-I am the founder of Akira guild and Rainbow Jailbreak server.
-NOTE : All my projects are private! / Tüm projelerim gizlidir.
+- 👋 Hi, I’m Umut
+- I'm a software student in Turkey.
+- Four years of Discord developer
+- I'm the founder of Akira guild and Rainbow Jailbreak server.
+- Note : All my project is confidential and licensed. / Tüm projem gizli ve lisanslıdır.
 
 
 </div>
