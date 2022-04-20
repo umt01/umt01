@@ -5,8 +5,8 @@
 - 👋 Hi, I’m Umut
 - I'm a software student in Turkey.
 - Four years of Discord developer
-- I'm the founder of Akira Gifs
 - CEO of BotClub https://botclub.me
+- I'm the founder of Akira Gifs
 - Note : All my projects are confidential and licensed. - Tüm projelerim gizli ve lisanslıdır.
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852585608152088587?theme=dark&bg=000000)](https://discord.com/users/852585608152088587)
