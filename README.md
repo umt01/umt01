@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m Umut
+- 👋 Hi, I’m xecitio
 - Software student in Turkey.
 - Four years of Discord developer
 - CEO of BotClub https://botclub.me
