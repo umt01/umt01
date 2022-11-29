@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m xecitio
+- 👋 Hi, I’m xec
 - Software student in Turkey.
 - Four years of Discord developer
 - CEO of BotClub https://botclub.me
