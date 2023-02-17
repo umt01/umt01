@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m xec
+- 👋 Hi, I’m reaxy
 - Software student in Turkey.
 - Four years of Discord developer
 - CEO of BotClub https://botclub.me
